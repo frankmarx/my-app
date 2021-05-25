@@ -1,0 +1,2 @@
+AppMap [DEBUG]: agent loaded using config appmap.yml
+AppMap [DEBUG]: wrote com_mycompany_app_AppTest_shouldAnswerWithTrue.appmap.json

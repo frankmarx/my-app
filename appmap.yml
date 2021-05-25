@@ -1,0 +1,5 @@
+name: my-app
+
+packages:
+
+  - path: java.com.mycompany.app
